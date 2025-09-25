@@ -52,4 +52,4 @@ For a detailed walkthrough with full explanations of each step, business context
 [Turn Sensitive Data into Safe AI Assets with Tonic Textual in Amazon SageMaker Unified Studio](https://tonic.ai/textual)
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
